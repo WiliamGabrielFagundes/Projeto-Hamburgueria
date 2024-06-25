@@ -1,0 +1,3 @@
+As imgs estão na dentro de uma pasta chamada img
+os css estão dentro de styles
+fique atento a esssas pastas
